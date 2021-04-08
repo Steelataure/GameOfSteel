@@ -3,7 +3,7 @@
 ## Installation
 * Télécharger le fichier .rar [ici](https://github.com/Steelataure/Platformer/releases) sur la version la plus récente
 * Extraire le fichier .rar sur votre ordinateur
-* Cliquez sur l'application (.exe) dans le dossier **dist**
+* Cliquer sur l'application (.exe) dans le dossier **dist**
 
 ## Description du projet
 
@@ -16,7 +16,7 @@ Le jeu est un platformer avec la présence de plusieurs niveaux et de boss
 
 ## Objectifs à venir
 * Faire plus de niveaux et les développer encore plus
-* Mise en place de menu options
+* Mise en place d'un menu options/pause
 * Statistiques en fin de jeu
 
 ## Auteur
