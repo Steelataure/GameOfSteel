@@ -21,5 +21,3 @@ Le jeu est un platformer avec la présence de plusieurs niveaux et de boss
 
 ## Auteur
 Alexandre Buisset alias Steel
-
-
