@@ -1,0 +1,46 @@
+Alexandre Buisset
+
+Construction du programme :
+
+-Mise en place de la fenêtre
+-musique de fond
+-Image du personnage
+-Direction du personnage (droite gauche haut bas)
+
+-Ajouts des tuiles dans une game_map
+-Collisions entre les tuiles et le personnages
+-Gravité 
+-Gestion des tuiles via block notes + rangement des fichiers
+-De meilleurs blocks pour les platformes et plus de blocks
+-Animation personnage
+
+-Barre de vie
+-Ajout d'un monstre
+-Animation monstre
+-Gestion de vie du personnage en fonction si collision avec monstre et personnage
+-Son pour la perte de vie et animation de perte de vie 
+
+-Meilleur sprite (avec frames) donc animation du sprite
+-Nouveau et animation du monstre
+
+-Game(), une boucle permettant le restart complet du jeu sans le fermer
+-Menu
+-fichier texte avec score / vie restants / tentatives
+-ajouts de tiles, spikes
+-Animation de perte de vie
+
+---------------------------
+Ce qui reste :
+
+-Mettre de meilleurs musique menu/game
+-Donnez beaucoup plus de style au menu
+-menu Pause
+-Refaire le systeme de monstres pour + opti et plus facile pour en mettre d'autres
+-Réorganiser les fichiers (data etc...)
+
+-tuile effet speciaux, effet eau/mort
+-Option du menu
+-Plus de niveaux, plus de blocs
+
+
+-Opti le programme
