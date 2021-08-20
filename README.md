@@ -23,4 +23,4 @@ J'ai crée ce jeu de plateforme en utilisant python et la librairie pygame
 * Statistiques en fin de jeu
 
 ## Auteur
-Alexandre Buisset alias Steel
+**Alexandre Buisset** alias **Steel**
