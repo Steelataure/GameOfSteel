@@ -17,10 +17,5 @@ J'ai crée ce jeu de plateforme en utilisant python et la librairie pygame
 ![Alt Text](https://media.giphy.com/media/p6RQldiaryF2UbxlaJ/giphy.gif)
 ![](https://zupimages.net/up/21/14/k1lq.png)
 
-## Objectifs à venir
-* Faire plus de niveaux et les développer encore plus
-* Mise en place d'un menu options/pause
-* Statistiques en fin de jeu
-
 ## Auteur
 **Alexandre Buisset** alias **Steel**
